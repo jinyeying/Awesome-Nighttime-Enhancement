@@ -5,61 +5,91 @@ Collection of recent nighttime enhancement works, including papers, codes, datas
 
 ### 1. Nighttime Light-Effects Suppression
 ### Unsupervised-Deep-Learning
-* `ECCV 2022`
+* `ECCV2022`
 **Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression** \
 [Yeying Jin](https://jinyeying.github.io/), [Wenhan Yang](https://flyywh.github.io/) and [Robby T. Tan](https://tanrobby.github.io/pub.html)\
 [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970396.pdf)] [[Github](https://github.com/jinyeying/night-enhancement)] 
 
 ### Semi-Supervised-Deep-Learning
-* `CVPR 2021`
+* `CVPR2021`
 **Nighttime Visibility Enhancement by Increasing the Dynamic Range and Suppression of Light Effects** \
 [Aashish Sharma](https://aasharma90.github.io/) and [Robby T. Tan](https://tanrobby.github.io/pub.html)\
 [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Sharma_Nighttime_Visibility_Enhancement_by_Increasing_the_Dynamic_Range_and_Suppression_CVPR_2021_paper.pdf)] [[Light-Effects Data](https://www.dropbox.com/home/nighttime/ECCV2022/data/real/self-collected/light-effects)]
 
-### 2. Nighttime Dehaze
+### Zero-Shot-Deep-Learning
+* `IJCAI2022`
+From Generation to Suppression: Towards Effective Irregular glow suppression for Nighttime Visibility Enhancement
+
+### 2. Nighttime Dehazing/Defogging
 ### Semi-Supervised-Deep-Learning
-* `ECCV 2020`
+* `ECCV2020`
 **Nighttime Defogging Using High-Low Frequency Decomposition and Grayscale-Color Networks** \
 Wending Yan, [Robby T. Tan](https://tanrobby.github.io/pub.html) and [Dengxin Dai](https://vas.mpi-inf.mpg.de/) \
 [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570460.pdf)] [[GTA5 Nighttime Fog Data](https://www.dropbox.com/home/nighttime/ECCV2022/data/synthetic/GTA5)]
 
 ### Supervised-Deep-Learning
-* `ACMMM 2020`
+* `VisualComputer,2022`
+Multi-path Dilated Convolution Network for Haze and Glow Removal in Nighttime Images
+* `ACMMM2020`
 Nighttime Dehazing with a Synthetic Benchmark
 [[Code]](https://github.com/chaimi2013/3R)
+* `Arxiv2019`
+Night Time Haze and Glow Removal using Deep Dilated Convolutional Network
+* `PCM2018`
+HDP-Net: Haze Density Prediction Network for Nighttime Dehazing
+[[Code]](https://github.com/nicholasly/HDP-Net)
 
 ### Traditional
-* `TIP 2022`
+* `TCSVT2022`
+Multi-purpose Oriented Single Nighttime Image Haze Removal based on Unified Variational Retinex Model
+* `Engineering Applications of AI,2022`
+Single Nighttime Image Dehazing based on Unified Variational Decomposition Model and Multi-scale Contrast Enhancement
+* `TIP2022`
 Variational Single Nighttime Image Haze Removal With a Gray Haze-Line Prior
-* `CVPRW 2022`
+* `CVPRW2022`
 Nighttime Image Dehazing Based on Variational Decomposition Model
-* `CVIU 2021`
-Nighttime image dehazing based on Retinex and dark channel prior using Taylor series expansion
-* `TIP 2020`
-Day and night-time dehazing by local airlight estimation
-* `CVPR 2017`
-Fast haze removal for nighttime image using maximum reflectance prior
+* `Multimedia Tools and Applications,2022`
+Joint Dehazing and Denoising for Single Nighttime Image via Multi-scale Decomposition
+* `CVIU2021`
+Nighttime Image Dehazing Based on Retinex and Dark Channel Prior using Taylor Series Expansion
+* `Signal Processing,2021`
+Single Nighttime Image Dehazing based on Image Decomposition
+* `TIP2020`
+Day and Night-time Dehazing by Local Airlight Estimation
+* `IEEE Access,2020`
+Integrating Haze Density Features for Fast Nighttime Image Dehazing
+* `IEEE Access,2019`
+Nighttime Single Image Dehazing via Pixel-Wise Alpha Blending
+[[Code]](https://github.com/yuteng/nighttime-dehazing)
+* `IEEE Access,2019`
+A Unified Variational Model for Single Image Dehazing
+* `CVPR2017`
+Fast Haze Removal for Nighttime Image using Maximum Reflectance Prior
 [[Code]](https://github.com/chaimi2013/MRP)
-* `CVPR 2017`
-Night-time dehazing by fusion
-* `ICCV 2015`
-Nighttime Haze Removal with Glow and Multiple Light Colors \
-[Yu Li](http://yu-li.github.io/), [Robby T. Tan](https://tanrobby.github.io/pub.html), [Michael S. Brown](https://www.eecs.yorku.ca/~mbrown/)\
+* `CVPR2017`
+Night-time Dehazing by Fusion
+* `ICCV2015`
+Nighttime Haze Removal with Glow and Multiple Light Colors 
 [[Paper]](https://www.dropbox.com/s/b7l89f31erqmjr0/2015_iccv_nightdehazing.pdf?dl=0)
-[[Code]](https://tanrobby.github.io/code.html)
-* `ICIP 2014`
-Nighttime haze removal based on a new imaging model
+[[Code]](https://tanrobby.github.io/code.html)\
+[Yu Li](http://yu-li.github.io/), [Robby T. Tan](https://tanrobby.github.io/pub.html), [Michael S. Brown](https://www.eecs.yorku.ca/~mbrown/)
+* `ICIP2014`
+Nighttime Haze Removal based on a New Imaging Model
 [[Code]](https://github.com/chaimi2013/NighttimeDehaze)
-* `ICIP 2012`
-Nighttime haze removal using Color Transfer pre-processing and dark channel prior
+* `ICIP2012`
+Nighttime Haze Removal using Color Transfer Pre-processing and Dark Channel Prior
+
+### Survey
+* `Archives of Computational Methods in Engineering,2021`
+Nighttime Image‑Dehazing: A Review and Quantitative Benchmarking
 
 ### 3. Nighttime Ghost and Flare Removal
-* `CVPR 2023`
+* `CVPR2023`
 Nighttime Smartphone Reflective Flare Removal Using Optical Center Symmetry Prior\
 Yuekun Dai, Yihang Luo, Shangchen Zhou, Chongyi Li, and Chen Change Loy \
 [[Paper](https://arxiv.org/abs/2303.15046)]
 
-* `NeurIPS Dataset 2022`
+* `NeurIPS Dataset,2022`
 Flare7K: A Phenomenological Nighttime Flare Removal Dataset\
 Yuekun Dai, Chongyi Li, Shangchen Zhou, Ruicheng Feng, and Chen Change Loy \
 [[Paper](https://arxiv.org/abs/2210.06570)] [[Github](https://github.com/ykdai/Flare7K)] 
