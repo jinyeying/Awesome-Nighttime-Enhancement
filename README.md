@@ -27,6 +27,9 @@ From Generation to Suppression: Towards Effective Irregular glow suppression for
 Wending Yan, [Robby T. Tan](https://tanrobby.github.io/pub.html) and [Dengxin Dai](https://vas.mpi-inf.mpg.de/) \
 [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570460.pdf)] [[GTA5 Nighttime Fog Data](https://www.dropbox.com/home/nighttime/ECCV2022/data/synthetic/GTA5)]
 
+* `ArXiv2023`
+**NightHazeFormer: Single Nighttime Haze Removal Using Prior Query Transformer** [[Paper](https://arxiv.org/pdf/2305.09533.pdf)]
+
 ### Supervised-Deep-Learning
 * `VisualComputer,2022`
 Multi-path Dilated Convolution Network for Haze and Glow Removal in Nighttime Images
