@@ -1,9 +1,12 @@
 # Awesome-Nighttime-Enhancement
-Collection of recent nighttime enhancement works, including papers, codes, datasets, and metrics.
+Collection of recent nighttime enhancement low-level works, including datasets, papers, codes and metrics.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jinyeying/Awesome-Nighttime-Enhancement)
 
 ### 1. Nighttime Light-Effects Suppression
+### Dataset
+* [[Light-effects data]](https://www.dropbox.com/sh/ro8fs629ldebzc2/AAD_W78jDffsJhH-smJr0cNSa?dl=0) <br>
+
 ### Unsupervised-Deep-Learning
 * `ECCV2022`
 **Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression** \
@@ -14,18 +17,21 @@ Collection of recent nighttime enhancement works, including papers, codes, datas
 * `CVPR2021`
 **Nighttime Visibility Enhancement by Increasing the Dynamic Range and Suppression of Light Effects** \
 [Aashish Sharma](https://aasharma90.github.io/) and [Robby T. Tan](https://tanrobby.github.io/pub.html)\
-[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Sharma_Nighttime_Visibility_Enhancement_by_Increasing_the_Dynamic_Range_and_Suppression_CVPR_2021_paper.pdf)] [[Light-Effects Data](https://www.dropbox.com/home/nighttime/ECCV2022/data/real/self-collected/light-effects)]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Sharma_Nighttime_Visibility_Enhancement_by_Increasing_the_Dynamic_Range_and_Suppression_CVPR_2021_paper.pdf)] 
 
 ### Zero-Shot-Deep-Learning
 * `IJCAI2022`
 From Generation to Suppression: Towards Effective Irregular glow suppression for Nighttime Visibility Enhancement
 
 ### 2. Nighttime Dehazing/Defogging
+### Dataset
+* [[GTA5 Nighttime Fog Data](https://www.dropbox.com/sh/gfw44ttcu5czrbg/AACr2GZWvAdwYPV0wgs7s00xa?dl=0)]
+
 ### Semi-Supervised-Deep-Learning
 * `ECCV2020`
 **Nighttime Defogging Using High-Low Frequency Decomposition and Grayscale-Color Networks** \
 Wending Yan, [Robby T. Tan](https://tanrobby.github.io/pub.html) and [Dengxin Dai](https://vas.mpi-inf.mpg.de/) \
-[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570460.pdf)] [[GTA5 Nighttime Fog Data](https://www.dropbox.com/home/nighttime/ECCV2022/data/synthetic/GTA5)]
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570460.pdf)] 
 
 * `ArXiv2023`
 **NightHazeFormer: Single Nighttime Haze Removal Using Prior Query Transformer** [[Paper](https://arxiv.org/pdf/2305.09533.pdf)]
