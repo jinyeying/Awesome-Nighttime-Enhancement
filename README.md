@@ -3,40 +3,49 @@ Collection of recent nighttime enhancement low-level works, including datasets, 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jinyeying/Awesome-Nighttime-Enhancement)
 
-### 1. Nighttime Light-Effects Suppression
-### Dataset
+## 1. Nighttime Light-Effects Suppression
+### 1.1 Dataset
 * [[Light-effects data]](https://www.dropbox.com/sh/ro8fs629ldebzc2/AAD_W78jDffsJhH-smJr0cNSa?dl=0) <br>
 
-### Unsupervised-Deep-Learning
+### 1.2 Unsupervised-Deep-Learning
 * `ECCV2022`
 **Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression** \
 [Yeying Jin](https://jinyeying.github.io/), [Wenhan Yang](https://flyywh.github.io/) and [Robby T. Tan](https://tanrobby.github.io/pub.html)\
-[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970396.pdf)] [[Github](https://github.com/jinyeying/night-enhancement)] 
+[[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970396.pdf)
+[[Code]](https://github.com/jinyeying/night-enhancement)
 
-### Semi-Supervised-Deep-Learning
+### 1.3 Semi-Supervised-Deep-Learning
 * `CVPR2021`
 **Nighttime Visibility Enhancement by Increasing the Dynamic Range and Suppression of Light Effects** \
-[Aashish Sharma](https://aasharma90.github.io/) and [Robby T. Tan](https://tanrobby.github.io/pub.html)\
-[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Sharma_Nighttime_Visibility_Enhancement_by_Increasing_the_Dynamic_Range_and_Suppression_CVPR_2021_paper.pdf)] 
+[Aashish Sharma](https://aasharma90.github.io/) and [Robby T. Tan](https://tanrobby.github.io/pub.html) \
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Sharma_Nighttime_Visibility_Enhancement_by_Increasing_the_Dynamic_Range_and_Suppression_CVPR_2021_paper.pdf)[[Light-effects data]](https://www.dropbox.com/sh/ro8fs629ldebzc2/AAD_W78jDffsJhH-smJr0cNSa?dl=0)
 
-### Zero-Shot-Deep-Learning
+### 1.4 Zero-Shot-Deep-Learning
 * `IJCAI2022`
 From Generation to Suppression: Towards Effective Irregular glow suppression for Nighttime Visibility Enhancement
+[[Paper]]()
 
-### 2. Nighttime Dehazing/Defogging
-### Dataset
-* [[GTA5 Nighttime Fog Data](https://www.dropbox.com/sh/gfw44ttcu5czrbg/AACr2GZWvAdwYPV0wgs7s00xa?dl=0)]
+## 2. Nighttime Dehazing/Defogging
+### 2.1 Dataset
+* [[GTA5 Nighttime Fog Data]](https://www.dropbox.com/sh/gfw44ttcu5czrbg/AACr2GZWvAdwYPV0wgs7s00xa?dl=0) <br>
 
-### Semi-Supervised-Deep-Learning
+### 2.2 Semi-Supervised-Deep-Learning
+* `ACMMM2023`
+**Enhancing Visibility in Nighttime Haze Images Using Guided APSF and Gradient Adaptive Convolution** \
+[Yeying Jin*](https://jinyeying.github.io/), Beibei Lin*, Wending Yan, Wei Ye, Yuan Yuan and [Robby T. Tan](https://tanrobby.github.io/pub.html) \
+[[Paper]]() [[Code]](https://github.com/jinyeying/nighttime_dehaze)
+
+* `ACMMM2023`
+**NightHazeFormer: Single Nighttime Haze Removal Using Prior Query Transformer** [[Paper]](https://arxiv.org/pdf/2305.09533.pdf)
+
+  
 * `ECCV2020`
 **Nighttime Defogging Using High-Low Frequency Decomposition and Grayscale-Color Networks** \
 Wending Yan, [Robby T. Tan](https://tanrobby.github.io/pub.html) and [Dengxin Dai](https://vas.mpi-inf.mpg.de/) \
-[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570460.pdf)] 
+[[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570460.pdf)
 
-* `ArXiv2023`
-**NightHazeFormer: Single Nighttime Haze Removal Using Prior Query Transformer** [[Paper](https://arxiv.org/pdf/2305.09533.pdf)]
 
-### Supervised-Deep-Learning
+### 2.3 Supervised-Deep-Learning
 * `VisualComputer,2022`
 Multi-path Dilated Convolution Network for Haze and Glow Removal in Nighttime Images
 * `ACMMM2020`
@@ -48,7 +57,7 @@ Night Time Haze and Glow Removal using Deep Dilated Convolutional Network
 HDP-Net: Haze Density Prediction Network for Nighttime Dehazing
 [[Code]](https://github.com/nicholasly/HDP-Net)
 
-### Traditional
+### 2.4 Traditional
 * `TCSVT2022`
 Multi-purpose Oriented Single Nighttime Image Haze Removal based on Unified Variational Retinex Model
 * `Engineering Applications of AI,2022`
@@ -81,9 +90,9 @@ Night-time Dehazing by Fusion
 Nighttime Haze Removal with Glow and Multiple Light Colors 
 [[Paper]](https://www.dropbox.com/s/b7l89f31erqmjr0/2015_iccv_nightdehazing.pdf?dl=0)
 [[Code]](https://tanrobby.github.io/code.html)\
-[Yu Li](http://yu-li.github.io/), [Robby T. Tan](https://tanrobby.github.io/pub.html), [Michael S. Brown](https://www.eecs.yorku.ca/~mbrown/)
+[Yu Li](http://yu-li.github.io/), [Robby T. Tan](https://tanrobby.github.io/pub.html), and [Michael S. Brown](https://www.eecs.yorku.ca/~mbrown/)
 * `ICIP2014`
-Nighttime Haze Removal based on a New Imaging Model
+Nighttime Haze Removal Based on a New Imaging Model
 [[Code]](https://github.com/chaimi2013/NighttimeDehaze)
 * `ICIP2012`
 Nighttime Haze Removal using Color Transfer Pre-processing and Dark Channel Prior
@@ -92,14 +101,22 @@ Nighttime Haze Removal using Color Transfer Pre-processing and Dark Channel Prio
 * `Archives of Computational Methods in Engineering,2021`
 Nighttime Image‑Dehazing: A Review and Quantitative Benchmarking
 
-### 3. Nighttime Ghost and Flare Removal
+## 3. Nighttime Ghost and Flare Removal
 * `CVPR2023`
 Nighttime Smartphone Reflective Flare Removal Using Optical Center Symmetry Prior\
-Yuekun Dai, Yihang Luo, Shangchen Zhou, Chongyi Li, and Chen Change Loy \
-[[Paper](https://arxiv.org/abs/2303.15046)]
+[Yuekun Dai](https://ykdai.github.io/), Yihang Luo, Shangchen Zhou, [Chongyi Li](https://li-chongyi.github.io/), and [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/) \
+[[Paper]](https://arxiv.org/abs/2303.15046)
+[[Code]](https://github.com/ykdai/BracketFlare)
 
 * `NeurIPS Dataset,2022`
 Flare7K: A Phenomenological Nighttime Flare Removal Dataset\
-Yuekun Dai, Chongyi Li, Shangchen Zhou, Ruicheng Feng, and Chen Change Loy \
-[[Paper](https://arxiv.org/abs/2210.06570)] [[Github](https://github.com/ykdai/Flare7K)] 
+[Yuekun Dai](https://ykdai.github.io/), [Chongyi Li](https://li-chongyi.github.io/), Shangchen Zhou, Ruicheng Feng, and [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/) \
+[[Paper]](https://arxiv.org/abs/2210.06570) [[Code]](https://github.com/ykdai/Flare7K)
+
+* `arXiv Preprint, 2023`
+Flare7K++: Mixing Synthetic and Real Datasets for Nighttime Flare Removal and Beyond\
+[Yuekun Dai](https://ykdai.github.io/), [Chongyi Li](https://li-chongyi.github.io/), Shangchen Zhou, Ruicheng Feng, Yihang Luo, and [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/)\
+[[Paper]](https://arxiv.org/abs/2306.04236) [[Code]](https://github.com/ykdai/Flare7K)
+
+
 
