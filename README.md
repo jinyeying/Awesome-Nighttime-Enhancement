@@ -108,12 +108,12 @@ Nighttime Smartphone Reflective Flare Removal Using Optical Center Symmetry Prio
 [[Paper]](https://arxiv.org/abs/2303.15046)
 [[Code]](https://github.com/ykdai/BracketFlare)
 
-* `NeurIPS Dataset,2022`
+* `NeurIPS Dataset 2022`
 Flare7K: A Phenomenological Nighttime Flare Removal Dataset\
 [Yuekun Dai](https://ykdai.github.io/), [Chongyi Li](https://li-chongyi.github.io/), Shangchen Zhou, Ruicheng Feng, and [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/) \
 [[Paper]](https://arxiv.org/abs/2210.06570) [[Code]](https://github.com/ykdai/Flare7K)
 
-* `arXiv Preprint, 2023`
+* `arXiv2023`
 Flare7K++: Mixing Synthetic and Real Datasets for Nighttime Flare Removal and Beyond\
 [Yuekun Dai](https://ykdai.github.io/), [Chongyi Li](https://li-chongyi.github.io/), Shangchen Zhou, Ruicheng Feng, Yihang Luo, and [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/)\
 [[Paper]](https://arxiv.org/abs/2306.04236) [[Code]](https://github.com/ykdai/Flare7K)
