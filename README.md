@@ -118,5 +118,9 @@ Flare7K++: Mixing Synthetic and Real Datasets for Nighttime Flare Removal and Be
 [Yuekun Dai](https://ykdai.github.io/), [Chongyi Li](https://li-chongyi.github.io/), Shangchen Zhou, Ruicheng Feng, Yihang Luo, and [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/)\
 [[Paper]](https://arxiv.org/abs/2306.04236) [[Code]](https://github.com/ykdai/Flare7K)
 
+* `ISCAS2023`
+Removing Image Artifacts From Scratched Lens Protectors\
+[[Paper]](https://arxiv.org/format/2305.09533) [[Code]](https://github.com/wyf0912/flare-removal)
+
 
 
