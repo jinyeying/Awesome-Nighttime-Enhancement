@@ -11,7 +11,7 @@ Collection of recent nighttime enhancement low-level works, including datasets, 
 * `ECCV2022`
 **Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression** \
 [Yeying Jin](https://jinyeying.github.io/), [Wenhan Yang](https://flyywh.github.io/) and [Robby T. Tan](https://tanrobby.github.io/pub.html)\
-[[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970396.pdf)
+[[Paper]](https://arxiv.org/abs/2207.10564)
 [[Code]](https://github.com/jinyeying/night-enhancement)
 
 ### 1.3 Semi-Supervised-Deep-Learning
@@ -23,7 +23,7 @@ Collection of recent nighttime enhancement low-level works, including datasets, 
 ### 1.4 Zero-Shot-Deep-Learning
 * `IJCAI2022`
 From Generation to Suppression: Towards Effective Irregular glow suppression for Nighttime Visibility Enhancement
-[[Paper]]()
+[[Paper]](https://arxiv.org/abs/2307.16783)
 
 ## 2. Nighttime Dehazing/Defogging
 ### 2.1 Dataset
@@ -33,10 +33,10 @@ From Generation to Suppression: Towards Effective Irregular glow suppression for
 * `ACMMM2023`
 **Enhancing Visibility in Nighttime Haze Images Using Guided APSF and Gradient Adaptive Convolution** \
 [Yeying Jin*](https://jinyeying.github.io/), Beibei Lin*, Wending Yan, Wei Ye, Yuan Yuan and [Robby T. Tan](https://tanrobby.github.io/pub.html) \
-[[Paper]]() [[Code]](https://github.com/jinyeying/nighttime_dehaze)
+[[Paper]](https://arxiv.org/abs/2308.01738) [[Code]](https://github.com/jinyeying/nighttime_dehaze)
 
 * `ACMMM2023`
-**NightHazeFormer: Single Nighttime Haze Removal Using Prior Query Transformer** [[Paper]](https://arxiv.org/pdf/2305.09533.pdf)
+**NightHazeFormer: Single Nighttime Haze Removal Using Prior Query Transformer** [[Paper]](https://arxiv.org/abs/2305.09533)
 
   
 * `ECCV2020`
