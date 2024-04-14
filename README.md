@@ -122,5 +122,9 @@ Flare7K++: Mixing Synthetic and Real Datasets for Nighttime Flare Removal and Be
 Removing Image Artifacts From Scratched Lens Protectors\
 [[Paper]](https://arxiv.org/format/2305.09533) [[Code]](https://github.com/wyf0912/flare-removal)
 
+## 4. Nighttime Deraining
+* `AAAI2024`
+NightRain: Nighttime Video Deraining via Adaptive-Rain-Removal and Adaptive-Correction\
+[Beibei Lin*](https://bb12346.github.io/), [Yeying Jin*](https://jinyeying.github.io/), Wending Yan, Wei Ye, Yuan Yuan, Sunli Zhang, [Robby T. Tan](https://tanrobby.github.io/pub.html)
 
 
